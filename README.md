@@ -45,6 +45,9 @@ Welcome to Euphony, a sophisticated music streaming platform designed to provide
 ### Authentication
 - JWT
 
+### Dataset
+- [Spotify Dataset](https://gigasheet.com/sample-data/spotify-dataset)
+  
 ## Getting Started
 
 1. Sign up for a Euphony account.
