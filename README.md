@@ -1,7 +1,7 @@
 # Euphony Music Streaming Platform
 
 Welcome to Euphony, a sophisticated music streaming platform designed to provide users with a seamless and personalized music experience.
-![logo]<img width="657" alt="pics" src="https://github.com/AkibNihal/Euphony/assets/126982931/effdb117-0e7a-4165-85cf-722e7f463815">
+<img width="857" alt="pics" src="https://github.com/AkibNihal/Euphony/assets/126982931/effdb117-0e7a-4165-85cf-722e7f463815">
 
 ## Features
 
