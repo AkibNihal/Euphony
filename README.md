@@ -58,8 +58,8 @@ Welcome to Euphony, a sophisticated music streaming platform designed to provide
 5. Enjoy music playback with basic functionalities such as next, previous, and like.
 
 ## Screenshots
-
-[![Screenshot 1](screenshots/screenshot1.png)](screenshots/screenshot1.png)
+### Home-Activity:
+![Home](https://github.com/AkibNihal/Euphony/assets/126982931/86031a20-64ba-468f-a7b9-4e3c26e829d3)
 [![Screenshot 2](screenshots/screenshot2.png)](screenshots/screenshot2.png)
 [![Screenshot 3](screenshots/screenshot3.png)](screenshots/screenshot3.png)
 [![Screenshot 4](screenshots/screenshot4.png)](screenshots/screenshot4.png)
