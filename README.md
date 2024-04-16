@@ -60,14 +60,35 @@ Welcome to Euphony, a sophisticated music streaming platform designed to provide
 ## Screenshots
 ### Home-Activity:
 ![Home](https://github.com/AkibNihal/Euphony/assets/126982931/86031a20-64ba-468f-a7b9-4e3c26e829d3)
-[![Screenshot 2](screenshots/screenshot2.png)](screenshots/screenshot2.png)
-[![Screenshot 3](screenshots/screenshot3.png)](screenshots/screenshot3.png)
-[![Screenshot 4](screenshots/screenshot4.png)](screenshots/screenshot4.png)
-[![Screenshot 5](screenshots/screenshot5.png)](screenshots/screenshot5.png)
-[![Screenshot 6](screenshots/screenshot6.png)](screenshots/screenshot6.png)
-[![Screenshot 7](screenshots/screenshot7.png)](screenshots/screenshot7.png)
-[![Screenshot 8](screenshots/screenshot8.png)](screenshots/screenshot8.png)
-[![Screenshot 9](screenshots/screenshot9.png)](screenshots/screenshot9.png)
-[![Screenshot 10](screenshots/screenshot10.png)](screenshots/screenshot10.png)
-[![Screenshot 11](screenshots/screenshot11.png)](screenshots/screenshot11.png)
-[![Screenshot 12](screenshots/screenshot12.png)](screenshots/screenshot12.png)
+
+### Search-Activity:
+![search](https://github.com/AkibNihal/Euphony/assets/126982931/a8e5cf58-ee03-4b8a-bf07-30e8777bea2a)
+
+### Search_with_Genre-Activity:
+![searchWithGenre](https://github.com/AkibNihal/Euphony/assets/126982931/6ce381a8-51b0-41fe-8e72-a9b103f86770)
+
+### Create_Playlist-Activity:
+![createPlaylist](https://github.com/AkibNihal/Euphony/assets/126982931/71e1fe83-79bd-4f74-a34e-156a18f85986)
+
+### Add_to_Playlist-Activity:
+![AddToPlaylist](https://github.com/AkibNihal/Euphony/assets/126982931/8ee1d6d6-1214-48e9-8810-aeb6d4f8de5a)
+
+### Library-Activity:
+![Library](https://github.com/AkibNihal/Euphony/assets/126982931/831327b8-a7e4-4680-9a47-fc674e28a66a)
+
+### Liked_Song-Activity:
+![LikedSong](https://github.com/AkibNihal/Euphony/assets/126982931/2e972919-0bda-4937-a7f9-9dd35c6dd3cf)
+
+### Upload_File-Activity:
+![UploadFile](https://github.com/AkibNihal/Euphony/assets/126982931/01fe7f19-8f7b-4e2a-957a-922bcd1c5235)
+
+### Upload_Music-Activity:
+![UploadMusic](https://github.com/AkibNihal/Euphony/assets/126982931/8115976d-9fad-4d39-b061-4cd548c9f93b)
+
+### My_Music_Collection-Activity:
+![MyMusic](https://github.com/AkibNihal/Euphony/assets/126982931/3f306f31-b4e3-46d9-b2e9-72f774cc4863)
+
+### Play_Music-Activity:
+![PlayMusic](https://github.com/AkibNihal/Euphony/assets/126982931/582dbfd5-9aa5-4f70-a73d-b1c413cb896c)
+
+
